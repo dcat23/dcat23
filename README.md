@@ -7,7 +7,7 @@
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=dcat23&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dcat23" />
-<a href="https://www.linkedin.com/in/devin-catuns-09781b220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devin-catuns/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 --------------------------------------------------------------------------------------------
